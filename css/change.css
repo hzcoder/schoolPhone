@@ -1,0 +1,11 @@
+section .schools .nav ul li.on{
+	color:#fe3d25;
+	border-bottom: 1px solid #fe3d25;
+}
+
+footer .bottom ul li.cha{
+	color:#fe3d25;
+}
+footer .bottom ul li.cha p{
+	color:#fe3d25;
+}
